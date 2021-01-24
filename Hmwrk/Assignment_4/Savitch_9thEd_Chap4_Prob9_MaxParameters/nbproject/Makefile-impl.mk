@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Savitch_9Ed_Chap4_Prob2_TwoCarInput
+PROJECTNAME=Savitch_9thEd_Chap4_Prob9_MaxParameters
 
 # Active Configuration
 DEFAULTCONF=Debug
