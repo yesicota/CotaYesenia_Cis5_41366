@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=savitch_9ed_chap4_prob2_twocarinput
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/savitch_9ed_chap4_prob2_twocarinput
+CND_ARTIFACT_NAME_Debug=assignemnt_4_menu
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/assignemnt_4_menu
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=savitch9edchap4prob2twocarinput.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/savitch9edchap4prob2twocarinput.tar
+CND_PACKAGE_NAME_Debug=assignemnt4menu.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/assignemnt4menu.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=savitch_9ed_chap4_prob2_twocarinput
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/savitch_9ed_chap4_prob2_twocarinput
+CND_ARTIFACT_NAME_Release=assignemnt_4_menu
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/assignemnt_4_menu
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=savitch9edchap4prob2twocarinput.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/savitch9edchap4prob2twocarinput.tar
+CND_PACKAGE_NAME_Release=assignemnt4menu.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/assignemnt4menu.tar
 #
 # include compiler specific variables
 #
